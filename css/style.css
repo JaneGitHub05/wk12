@@ -173,9 +173,9 @@ button:hover {
 
 .lb-data .lb-caption {
     font-size: 40px;
-    color: white;
+    color: black;
 }
 
-.lb-data .lb-number {
-    color: white;
+.lb-number {
+    color: black;
 }
