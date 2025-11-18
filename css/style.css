@@ -175,6 +175,6 @@ button:hover {
     font-size: 40px;
 }
 
-lb-caption, lb-number {
+.lb-caption, .lb-number {
     color: white;
 }
