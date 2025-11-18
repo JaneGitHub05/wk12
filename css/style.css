@@ -174,3 +174,7 @@ button:hover {
 .lb-data .lb-caption {
     font-size: 40px;
 }
+
+lb-caption, lb-number {
+    color: white;
+}
